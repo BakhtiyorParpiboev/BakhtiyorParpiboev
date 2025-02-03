@@ -26,7 +26,9 @@ Welcome to my GitHub profile! I'm currently a **Software Engineering student** a
 ### Tools & Frameworks:
 - Spring Framework (Learning Dependency Injection and Inversion of Control)
 - PostgreSQL (Database Management)
-- 
+- Raspberry PI
+- Arduino
+  
 ---
 
 ## 🔧 Let's Connect
