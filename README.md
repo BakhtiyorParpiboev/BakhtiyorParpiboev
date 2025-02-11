@@ -19,12 +19,10 @@ Welcome to my GitHub profile! I'm currently a **Software Engineering student** a
 ### Programming Languages:
 - **Java** (Intermediate level, focusing on Spring Framework)
 - **Python** (Learned basics)
-- **Kotlin** (Upcoming focus)
 - **C++** (Current focus)
 - **SQL** (PostgreSQL)
 
 ### Tools & Frameworks:
-- Spring Framework (Learning Dependency Injection and Inversion of Control)
 - PostgreSQL (Database Management)
 - Raspberry PI
 - Arduino
