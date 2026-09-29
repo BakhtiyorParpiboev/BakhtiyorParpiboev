@@ -1,39 +1,34 @@
-# Hi, I'm Bakhtiyor Parpiboev 👋
+# Bakhtiyor Parpiboev
 
-Welcome to my GitHub profile! I'm currently a **Software Engineering student** at **Kookmin University** in Seoul, South Korea.
+Software Engineering student at Kookmin University in Seoul, South Korea, and a Global Korea Scholarship (GKS) scholar.
 
----
+My interests include full-stack web development, backend systems, and database design. I am developing my skills through coursework and personal projects, with a focus on building useful applications and strengthening my software engineering fundamentals.
 
-## 🚀 About Me
-- 🎓 **Student**: studying Software Engineering under the prestigious **GKS Scholarship**.
-- ⚡ **Interests**: FullStack developer
-- 🚨 **Hobbies**: Sports enthusiast (football, badminton, and table tennis), cryptocurrency trading, and learning new technologies step by step.
-- 🔮 **Goals**:
-  - Become a **senior software engineer** and create meaningful contributions to the tech world.
-  - Become a trading expert and Launch my own trading community
-  - Open my own IT company in the future.
+## Technical Skills
 
----
+| Area | Technologies |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript, React, Next.js |
+| Backend | Express, Java |
+| Programming | Python, C++ |
+| Databases | SQL, PostgreSQL |
+| Hardware and prototyping | Arduino, Raspberry Pi |
 
-## 📊 My Skills
-### Programming Languages:
-- **Java** (Intermediate level, focusing on Spring Framework)
-- **Python** (Learned basics)
-- **C++** (Current focus)
-- **SQL** (PostgreSQL)
+## Current Focus
 
-### Tools & Frameworks:
-- PostgreSQL (Database Management)
-- Raspberry PI
-- Arduino
-  
----
+- Developing full-stack applications with React, Next.js, Express, and PostgreSQL.
+- Deepening my understanding of Java and the Spring Framework.
+- Strengthening my C++ programming and problem-solving skills.
 
-## 🔧 Let's Connect
-- 📧 Email: [bakhtiyor@kookmin.ac.kr]
-- 📝 Blog: [Instagram blog](https://www.instagram.com/bakhtiyor.p/)
-- 👤 LinkedIn: [Bakhtiyor Parpiboev](https://www.linkedin.com/in/bakhtiyor-parpiboev-2b4849326/)
+## Education
 
----
+**Kookmin University** — Software Engineering  
+Seoul, South Korea  
+Global Korea Scholarship (GKS)
 
-Thanks for visiting my profile! I’m always excited to collaborate, learn, and create impactful projects together. Feel free to reach out! 😄
+## Contact
+
+I welcome opportunities to collaborate on software projects and learn from other developers.
+
+- [LinkedIn](https://www.linkedin.com/in/bakhtiyor-parpiboev-2b4849326/)
+- [Email](mailto:bakhtiyor@kookmin.ac.kr)
