@@ -1,4 +1,4 @@
-# Hi there, I'm Bakhtiyor 👋
+# Hi, I'm Bakhtiyor Parpiboev 👋
 
 Welcome to my GitHub profile! I'm currently a **Software Engineering student** at **Kookmin University** in Seoul, South Korea.
 
